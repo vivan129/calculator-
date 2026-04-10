@@ -7,6 +7,7 @@ Notes/documentation project containing reference material and artifacts.
 - `CONTRIBUTING.md`
 - `shg`
 - `README.md`
+- `docs/PROJECT_CONTEXT.md`
 - `QUICKSTART.md`
 - `LICENSE`
 
